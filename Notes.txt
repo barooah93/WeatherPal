@@ -1,0 +1,21 @@
+Brandon Barooah
+
+
+Here are the following ways you can test the app:
+
+1) If you would like to view and test this source code directly, the project and all of its contents are in the folder "WeatherPal" or "WeatherPal.zip". You will need XCode installed on your mac. If you just want to test in the simulator, go to the project and press 'delete' on the code sign identity and entitlements so they will be cleared. Please note: you won't be able to test on device like this, an identity is required to test on real devices.
+
+2) If you would like to get the app directly onto an iPhone you have, we can work together on uploading the IPA to Apple's TestFlight or some other 3rd party vendor for testing iOS apps.  Note: I will need the devices UDID for this so you'll have to reach out to me directly so we can work on this together (barooah93@gmail.com)
+
+
+
+
+There are some additional things I would have done if I had more time:
+
+- I would have added the use of Core Location to grab the user's gps locations if allowed, thus giving the additional option to use their location instead of needing to type it in
+
+- Utilized the api's 5 day or 16 day forcast to allow the user to view future forcasted data
+
+- Allow the user to select their preferred units (Kelvin, Imperial, Metric)
+
+- Make the UI more asthetically pleasing
